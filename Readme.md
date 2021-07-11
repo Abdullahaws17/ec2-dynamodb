@@ -15,6 +15,11 @@ execution steps
     $ export AWS_SECRET_ACCESS_KEY="xxxxx"
     $ export AWS_DEFAULT_REGION="us-east-1"
 
+variable declaration part in input.tfvars
+
+![](images/key.png)
+
+
 commands
 
     $ terraform init
